@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+diffusers
+transformers
+accelerate
+torch
+groq
+python-dotenv
+
